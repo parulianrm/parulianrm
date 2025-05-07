@@ -1,11 +1,9 @@
-# 👋 Hi, 
-# I'm Parulian Ramot Manik
-
+# 👋 Hi, I'm Parulian Ramot Manik
 I'm a passionate Software QA Engineer and Tech Enthusiast from Indonesia 🇮🇩
 
 ## 🚀 About Me
 - 🔭 I’m currently working on automation testing using **Cypress** and **Katalon Studio**
-- 🌱 I’m currently learning **Apache Airflow**, **Next.js**, and **Meta Ads**
+- 🌱 I’m currently learning **Apache Airflow**, **Quality Assurance**, **Katalon Studio**, **Story Book**, **Cypress**, **Playwright**, **Laravel**, **Vue.Js**, **Next-Js**
 - 🧠 Always interested in tech, software development, and system governance
 
 ## 🛠️ Tech Stack

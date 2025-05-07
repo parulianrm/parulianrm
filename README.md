@@ -1,12 +1,21 @@
-# Hi there! 👋  
+# 👋 Hi, I'm Parulian Ramot Manik
 
-I am a **Full-Time Learner** passionate about technology and programming. 🚀  
-- 🌟 Continuously exploring new languages and frameworks.  
-- 💡 Striving to grow and contribute in the tech community.  
-- 🤝 Let’s connect and collaborate!  
+I'm a passionate Software QA Engineer and Tech Enthusiast from Indonesia 🇮🇩
 
-📫 Reach me via [LinkedIn](https://linkedin.com/in/your-profile) or [GitHub Discussions](https://github.com/your-username/your-username/discussions).  
+## 🚀 About Me
+- 🔭 I’m currently working on automation testing using **Cypress** and **Katalon Studio**
+- 🌱 I’m currently learning **Apache Airflow**, **Next.js**, and **Meta Ads**
+- 🧠 Always interested in tech, software development, and system governance
 
----
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Cypress](https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress)
+![Katalon](https://img.shields.io/badge/-Katalon-333?style=flat&logo=katalon)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
 
-*"The journey of learning never ends; every line of code is a step forward."*
+## 📊 GitHub Stats
+![Parulian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parulianrm&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/parulianrm)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:parulianrm@gmail.com)

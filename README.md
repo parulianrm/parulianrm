@@ -9,6 +9,7 @@ I'm a passionate Software QA Engineer and Tech Enthusiast from Indonesia 🇮�
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=typescript)
 ![Cypress](https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress)
 ![Katalon](https://img.shields.io/badge/-Katalon-333?style=flat&logo=katalon)
 ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)

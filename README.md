@@ -27,10 +27,10 @@ I'm a passionate Software QA Engineer and Tech Enthusiast from Indonesia ğŸ‡®ğŸ‡
   <a href="https://instagram.com/your_instagram_username" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=parulianrmanik@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
 
-  <a href="mailto:parulianrmanik@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   </div>
 
 ###
